@@ -4,7 +4,7 @@
 mecab인스톨 완료 후에 eKoNLPy를 사용할 때 tagger()에러가 뜰 때가 었습니다.
 
 execute this on your bash
-bash에 다음 커맨드를 입력해부세요
+bash에 다음 커맨드를 입력해주세요
 ```bash
  <(curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh)
  $ curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh
