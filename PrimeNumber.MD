@@ -1,6 +1,6 @@
 # 소수 구하기 Finding prime number
 ---
-[출처](https://53perc.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%86%8C%EC%88%98-%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0)
+[출처](https://53perc.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%86%8C%EC%88%98-%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0) <- 블로그 작성자입니다.
 
 소수(Prime number)는 1과 자기자신만을 약수로 가지는 양의 정수를 말한다. 2, 3, 5, 7, 11, 13... 등의 수이다. 어떤 수가 소수인지 판단하는 방법에 대해 알아보자.
 
